@@ -1,0 +1,6 @@
+SOURCE_URL=https://github.com/SSilence/selfoss/releases/download/2.18/selfoss-2.18.zip
+SOURCE_SUM=0b3d46b0b25170f99e3e29c9fc6a2e5235b0449fecbdad902583c919724aa6ed
+SOURCE_SUM_PRG=sha256sum
+SOURCE_FORMAT=zip
+SOURCE_IN_SUBDIR=false
+SOURCE_EXTRACT=true

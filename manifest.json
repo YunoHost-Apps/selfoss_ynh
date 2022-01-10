@@ -1,0 +1,74 @@
+{
+    "name": "Selfoss",
+    "id": "selfoss",
+    "packaging_format": 1,
+    "description": {
+        "en": "Multipurpose RSS reader, live stream, mashup, aggregation web application",
+        "fr": "Expliquez en *quelques* (10~15) mots l'utilité de l'app ou ce qu'elle fait (l'objectif est de donner une idée grossière pour des utilisateurs qui naviguent dans un catalogue de 100+ apps)"
+    },
+    "version": "1.0~ynh1",
+    "url": "https://selfoss.aditu.de/",
+    "upstream": {
+        "license": "AGPL-3.0-only",
+        "website": "https://selfoss.aditu.de/",
+        "demo": "https://demo.example.com",
+        "admindoc": "https://yunohost.org/packaging_apps",
+        "userdoc": "https://yunohost.org/apps",
+        "code": "https://github.com/fossar/selfoss"
+    },
+    "license": "AGPL-3.0-only",
+    "maintainer": {
+        "name": "John doe",
+        "email": "john.doe@example.com"
+    },
+    "requirements": {
+        "yunohost": ">= 4.3.0"
+    },
+    "multi_instance": true,
+    "services": [
+        "nginx",
+        "php7.3-fpm",
+        "mysql"
+    ],
+    "arguments": {
+        "install" : [
+            {
+                "name": "domain",
+                "type": "domain"
+            },
+            {
+                "name": "path",
+                "type": "path",
+                "example": "/selfoss",
+                "default": "/selfoss"
+            },
+            {
+                "name": "admin",
+                "type": "user"
+            },
+            {
+                "name": "is_public",
+                "type": "boolean",
+                "default": true
+            },
+            {
+                "name": "language",
+                "type": "string",
+                "ask": {
+                    "en": "Choose the application language",
+                    "fr": "Choisissez la langue de l'application"
+                },
+                "choices": ["cn", "cs", "de", "en", "fr", "lv", "nl", "ru", "tr", "tw"],
+                "default": "fr"
+            },
+            {
+                "name": "password",
+                "type": "password",
+                "help": {
+                    "en": "Use the help field to add an information for the admin about this question.",
+                    "fr": "Utilisez le champ aide pour ajouter une information à l'intention de l'administrateur à propos de cette question."
+                }
+            }
+        ]
+    }
+}
