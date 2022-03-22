@@ -1,4 +1,1 @@
 */15 * * * * __APP__ /usr/bin/php__PHPVERSION__ __FINALPATH__/cliupdate.php >>/var/log/selfoss_update.log > /dev/null
-
-
-#*/30 * * * * /usr/bin/curl -Ls 'http://__DOMAIN____PATH__/update' >/dev/null
