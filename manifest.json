@@ -37,12 +37,6 @@
                 "type": "domain"
             },
             {
-                "name": "path",
-                "type": "path",
-                "example": "/selfoss",
-                "default": "/selfoss"
-            },
-            {
                 "name": "admin",
                 "type": "user"
             },
