@@ -20,12 +20,15 @@ Selfoss is a multipurpose RSS reader and feed aggregation web application. It al
 
 **Shipped version:** 2.18~ynh1
 
-**Demo:** https://demo.example.com
+
 
 ## Screenshots
 
 ![](./doc/screenshots/screenshot1.png)
 
+## Disclaimers / important information
+
+password hash for optional login. You can generate a password hash by using following page of your selfoss installation. `http://your_selfoss_url.com/password`
 ## Documentation and resources
 
 * Official app website: https://selfoss.aditu.de/
