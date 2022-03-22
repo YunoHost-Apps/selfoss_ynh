@@ -112,7 +112,7 @@ ynh_add_fpm_config --usage=low --footprint=low
 #=================================================
 ynh_script_progression --message="Adding a configuration file..." --weight=1
 
-ynh_add_config --template="../conf/defaults.ini" --destination="$final_path/config.ini"
+ynh_add_config --template="../conf/config.ini" --destination="$final_path/config.ini"
 
 chmod 400 "$final_path/config.ini"
 chown $app:$app "$final_path/config.ini"
