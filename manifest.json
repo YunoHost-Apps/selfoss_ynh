@@ -6,7 +6,7 @@
         "en": "Multipurpose RSS reader, live stream, mashup, aggregation web application",
         "fr": "Multipurpose RSS reader, live stream, mashup, aggregation web application"
     },
-    "version": "2.18~ynh1",
+    "version": "2.18~ynh2",
     "url": "https://selfoss.aditu.de/",
     "upstream": {
         "license": "AGPL-3.0-only",
