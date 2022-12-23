@@ -20,7 +20,6 @@ Selfoss is a multipurpose RSS reader and feed aggregation web application. It al
 
 **Shipped version:** 2.18~ynh1
 
-
 ## Screenshots
 
 ![Screenshot of Selfoss](./doc/screenshots/screenshot1.png)
