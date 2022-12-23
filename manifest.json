@@ -6,7 +6,7 @@
         "en": "Multipurpose RSS reader",
         "fr": "Lecteur RSS polyvalent"
     },
-    "version": "2.18~ynh2",
+    "version": "2.19~ynh1",
     "url": "https://selfoss.aditu.de/",
     "upstream": {
         "license": "AGPL-3.0-only",
