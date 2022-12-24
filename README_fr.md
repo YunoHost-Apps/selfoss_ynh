@@ -26,7 +26,7 @@ Selfoss is a multipurpose RSS reader and feed aggregation web application. It al
 
 ## Avertissements / informations importantes
 
-password hash for optional login. You can generate a password hash by using following page of your selfoss installation. `http://your_selfoss_url.com/password`
+password hash for optional login. You can generate a password hash by using following page of your Selfoss installation. `http://your_selfoss_url.com/password`
 ## Documentations et ressources
 
 * Site officiel de l'app : <https://selfoss.aditu.de/>
