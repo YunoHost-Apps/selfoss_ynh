@@ -3,10 +3,10 @@
     "id": "selfoss",
     "packaging_format": 1,
     "description": {
-        "en": "Multipurpose RSS reader, live stream, mashup, aggregation web application",
-        "fr": "Multipurpose RSS reader, live stream, mashup, aggregation web application"
+        "en": "Multipurpose RSS reader",
+        "fr": "Lecteur RSS polyvalent"
     },
-    "version": "2.18~ynh2",
+    "version": "2.19~ynh1",
     "url": "https://selfoss.aditu.de/",
     "upstream": {
         "license": "AGPL-3.0-only",
@@ -21,7 +21,7 @@
         "email": ""
     },
     "requirements": {
-        "yunohost": ">= 4.3.0"
+        "yunohost": ">= 11.0.9"
     },
     "multi_instance": true,
     "services": [
