@@ -5,7 +5,8 @@ It shall NOT be edited by hand.
 
 # Selfoss for YunoHost
 
-[![Integration level](https://dash.yunohost.org/integration/selfoss.svg)](https://dash.yunohost.org/appci/app/selfoss) ![Working status](https://ci-apps.yunohost.org/ci/badges/selfoss.status.svg) ![Maintenance status](https://ci-apps.yunohost.org/ci/badges/selfoss.maintain.svg)  
+[![Integration level](https://dash.yunohost.org/integration/selfoss.svg)](https://dash.yunohost.org/appci/app/selfoss) ![Working status](https://ci-apps.yunohost.org/ci/badges/selfoss.status.svg) ![Maintenance status](https://ci-apps.yunohost.org/ci/badges/selfoss.maintain.svg)
+
 [![Install Selfoss with YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=selfoss)
 
 *[Lire ce readme en français.](./README_fr.md)*
@@ -24,9 +25,6 @@ Selfoss is a multipurpose RSS reader and feed aggregation web application. It al
 
 ![Screenshot of Selfoss](./doc/screenshots/screenshot1.png)
 
-## Disclaimers / important information
-
-password hash for optional login. You can generate a password hash by using following page of your Selfoss installation. `http://your_selfoss_url.com/password`
 ## Documentation and resources
 
 * Official app website: <https://selfoss.aditu.de/>
