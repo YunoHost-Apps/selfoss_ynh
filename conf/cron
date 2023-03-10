@@ -1,1 +1,1 @@
-*/15 * * * * __APP__ /usr/bin/php__PHPVERSION__ __FINALPATH__/cliupdate.php >>/var/log/selfoss_update.log > /dev/null
+*/15 * * * * __APP__ /usr/bin/php__PHPVERSION__ __INSTALL_DIR__/cliupdate.php >>/var/log/selfoss_update.log > /dev/null
