@@ -5,34 +5,35 @@ It shall NOT be edited by hand.
 
 # Selfoss pour YunoHost
 
-[![Niveau d'intégration](https://dash.yunohost.org/integration/selfoss.svg)](https://dash.yunohost.org/appci/app/selfoss) ![Statut du fonctionnement](https://ci-apps.yunohost.org/ci/badges/selfoss.status.svg) ![Statut de maintenance](https://ci-apps.yunohost.org/ci/badges/selfoss.maintain.svg)  
+[![Niveau d’intégration](https://dash.yunohost.org/integration/selfoss.svg)](https://dash.yunohost.org/appci/app/selfoss) ![Statut du fonctionnement](https://ci-apps.yunohost.org/ci/badges/selfoss.status.svg) ![Statut de maintenance](https://ci-apps.yunohost.org/ci/badges/selfoss.maintain.svg)
+
 [![Installer Selfoss avec YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=selfoss)
 
 *[Read this readme in english.](./README.md)*
 
-> *Ce package vous permet d'installer Selfoss rapidement et simplement sur un serveur YunoHost.
-Si vous n'avez pas YunoHost, regardez [ici](https://yunohost.org/#/install) pour savoir comment l'installer et en profiter.*
+> *Ce package vous permet d’installer Selfoss rapidement et simplement sur un serveur YunoHost.
+Si vous n’avez pas YunoHost, regardez [ici](https://yunohost.org/#/install) pour savoir comment l’installer et en profiter.*
 
-## Vue d'ensemble
+## Vue d’ensemble
 
 Selfoss is a multipurpose RSS reader and feed aggregation web application. It allows you to easily follow updates from different web sites, social networks and other platforms, all in single place. It is written in PHP, allowing you to run it basically anywhere.
 
 
 **Version incluse :** 2.19~ynh1
 
-## Captures d'écran
+## Captures d’écran
 
-![Capture d'écran de Selfoss](./doc/screenshots/screenshot1.png)
+![Capture d’écran de Selfoss](./doc/screenshots/screenshot1.png)
 
 ## Avertissements / informations importantes
 
 password hash for optional login. You can generate a password hash by using following page of your Selfoss installation. `http://your_selfoss_url.com/password`
 ## Documentations et ressources
 
-* Site officiel de l'app : <https://selfoss.aditu.de/>
+* Site officiel de l’app : <https://selfoss.aditu.de/>
 * Documentation officielle utilisateur : <https://selfoss.aditu.de/>
-* Documentation officielle de l'admin : <https://github.com/fossar/selfoss/wiki>
-* Dépôt de code officiel de l'app : <https://github.com/fossar/selfoss>
+* Documentation officielle de l’admin : <https://github.com/fossar/selfoss/wiki>
+* Dépôt de code officiel de l’app : <https://github.com/fossar/selfoss>
 * Documentation YunoHost pour cette app : <https://yunohost.org/app_selfoss>
 * Signaler un bug : <https://github.com/YunoHost-Apps/selfoss_ynh/issues>
 
@@ -48,4 +49,4 @@ ou
 sudo yunohost app upgrade selfoss -u https://github.com/YunoHost-Apps/selfoss_ynh/tree/testing --debug
 ```
 
-**Plus d'infos sur le packaging d'applications :** <https://yunohost.org/packaging_apps>
+**Plus d’infos sur le packaging d’applications :** <https://yunohost.org/packaging_apps>
