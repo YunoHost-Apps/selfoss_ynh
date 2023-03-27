@@ -1,1 +1,1 @@
-password hash for optional login. You can generate a password hash by using following page of your Selfoss installation. `http://__DOMAIN__/password`
+password hash for optional login. You can generate a password hash by using following page of your Selfoss installation. `https://__DOMAIN__/password`
