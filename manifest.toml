@@ -17,7 +17,7 @@ userdoc = "https://selfoss.aditu.de/"
 code = "https://github.com/fossar/selfoss"
 
 [integration]
-yunohost = ">= 11.1.15"
+yunohost = ">= 11.2"
 architectures = "all"
 multi_instance = true
 ldap = false
@@ -42,6 +42,7 @@ ram.runtime = "50M"
         [resources.sources.main]
         url = "https://github.com/SSilence/selfoss/releases/download/2.19/selfoss-2.19.zip"
         sha256 = "e49c4750e9723277963ca699b602f09f9148e2b9f258fce6b14429498af0e4fc"
+        autoupdate.strategy = "latest_github_tag"
 
     [resources.system_user]
 
@@ -51,4 +52,4 @@ ram.runtime = "50M"
     main.url = "/"
 
     [resources.apt]
-    packages = "sqlite3 php8.0-xml php8.0-sqlite3 php8.0-mbstring php8.0-mysql php8.0-gd php8.0-curl"
+    packages = "sqlite3, php8.2-xml, php8.2-sqlite3, php8.2-mbstring, php8.2-mysql, php8.2-gd, php8.2-curl"
