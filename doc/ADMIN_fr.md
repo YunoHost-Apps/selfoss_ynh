@@ -1,0 +1,1 @@
+hachage de mot de passe pour une connexion facultative. Vous pouvez générer un hachage de mot de passe en utilisant la page suivante de votre installation Selfoss. `https://__DOMAIN____PATH__/mot de passe`
