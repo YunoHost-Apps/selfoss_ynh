@@ -18,7 +18,7 @@ Si vous n’avez pas YunoHost, regardez [ici](https://yunohost.org/#/install) po
 
 Selfoss est un lecteur RSS polyvalent et une application Web d'agrégation de flux. Il vous permet de suivre facilement les mises à jour de différents sites Web, réseaux sociaux et autres plateformes, le tout en un seul endroit. Il est écrit en PHP, ce qui vous permet de l'exécuter pratiquement n'importe où.
 
-**Version incluse :** 2.19~ynh1
+**Version incluse :** 2.19~ynh2
 
 ## Captures d’écran
 
