@@ -30,7 +30,6 @@ Selfoss est un lecteur RSS polyvalent et une application Web d'agrégation de fl
 * Documentation officielle utilisateur : <https://selfoss.aditu.de/>
 * Documentation officielle de l’admin : <https://github.com/fossar/selfoss/wiki>
 * Dépôt de code officiel de l’app : <https://github.com/fossar/selfoss>
-* Documentation YunoHost pour cette app : <https://yunohost.org/app_selfoss>
 * Signaler un bug : <https://github.com/YunoHost-Apps/selfoss_ynh/issues>
 
 ## Informations pour les développeurs
