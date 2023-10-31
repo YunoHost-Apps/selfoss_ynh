@@ -19,7 +19,7 @@ If you don't have YunoHost, please consult [the guide](https://yunohost.org/#/in
 Selfoss is a multipurpose RSS reader and feed aggregation web application. It allows you to easily follow updates from different web sites, social networks and other platforms, all in single place. It is written in PHP, allowing you to run it basically anywhere.
 
 
-**Shipped version:** 2.19~ynh2
+**Shipped version:** 2.19~ynh4
 
 ## Screenshots
 
@@ -31,6 +31,7 @@ Selfoss is a multipurpose RSS reader and feed aggregation web application. It al
 * Official user documentation: <https://selfoss.aditu.de/>
 * Official admin documentation: <https://github.com/fossar/selfoss/wiki>
 * Upstream app code repository: <https://github.com/fossar/selfoss>
+* YunoHost Store: <https://apps.yunohost.org/app/selfoss>
 * Report a bug: <https://github.com/YunoHost-Apps/selfoss_ynh/issues>
 
 ## Developer info
