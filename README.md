@@ -5,7 +5,7 @@ It shall NOT be edited by hand.
 
 # Selfoss for YunoHost
 
-[![Integration level](https://dash.yunohost.org/integration/selfoss.svg)](https://dash.yunohost.org/appci/app/selfoss) ![Working status](https://ci-apps.yunohost.org/ci/badges/selfoss.status.svg) ![Maintenance status](https://ci-apps.yunohost.org/ci/badges/selfoss.maintain.svg)
+[![Integration level](https://dash.yunohost.org/integration/selfoss.svg)](https://ci-apps.yunohost.org/ci/apps/selfoss/) ![Working status](https://ci-apps.yunohost.org/ci/badges/selfoss.status.svg) ![Maintenance status](https://ci-apps.yunohost.org/ci/badges/selfoss.maintain.svg)
 
 [![Install Selfoss with YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=selfoss)
 
