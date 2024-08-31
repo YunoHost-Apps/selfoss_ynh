@@ -19,7 +19,7 @@
 Selfoss is a multipurpose RSS reader and feed aggregation web application. It allows you to easily follow updates from different web sites, social networks and other platforms, all in single place. It is written in PHP, allowing you to run it basically anywhere.
 
 
-**分发版本：** 2.19~ynh4
+**分发版本：** 2.19~ynh5
 
 ## 截图
 
