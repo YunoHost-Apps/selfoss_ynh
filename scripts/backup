@@ -18,15 +18,7 @@ ynh_backup "$install_dir"
 
 ynh_backup "/etc/nginx/conf.d/$domain.d/$app.conf"
 
-#=================================================
-# BACKUP THE PHP-FPM CONFIGURATION
-#=================================================
-
 ynh_backup "/etc/php/$php_version/fpm/pool.d/$app.conf"
-
-#=================================================
-# BACKUP A CRON FILE
-#=================================================
 
 ynh_backup "/etc/cron.d/$app"
 
