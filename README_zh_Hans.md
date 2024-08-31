@@ -5,7 +5,7 @@
 
 # YunoHost 上的 Selfoss
 
-[![集成程度](https://dash.yunohost.org/integration/selfoss.svg)](https://dash.yunohost.org/appci/app/selfoss) ![工作状态](https://ci-apps.yunohost.org/ci/badges/selfoss.status.svg) ![维护状态](https://ci-apps.yunohost.org/ci/badges/selfoss.maintain.svg)
+[![集成程度](https://dash.yunohost.org/integration/selfoss.svg)](https://ci-apps.yunohost.org/ci/apps/selfoss/) ![工作状态](https://ci-apps.yunohost.org/ci/badges/selfoss.status.svg) ![维护状态](https://ci-apps.yunohost.org/ci/badges/selfoss.maintain.svg)
 
 [![使用 YunoHost 安装 Selfoss](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=selfoss)
 
@@ -19,7 +19,7 @@
 Selfoss is a multipurpose RSS reader and feed aggregation web application. It allows you to easily follow updates from different web sites, social networks and other platforms, all in single place. It is written in PHP, allowing you to run it basically anywhere.
 
 
-**分发版本：** 2.19~ynh4
+**分发版本：** 2.19~ynh5
 
 ## 截图
 

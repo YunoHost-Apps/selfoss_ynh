@@ -5,7 +5,7 @@ Il NE doit PAS être modifié à la main.
 
 # Selfoss pour YunoHost
 
-[![Niveau d’intégration](https://dash.yunohost.org/integration/selfoss.svg)](https://dash.yunohost.org/appci/app/selfoss) ![Statut du fonctionnement](https://ci-apps.yunohost.org/ci/badges/selfoss.status.svg) ![Statut de maintenance](https://ci-apps.yunohost.org/ci/badges/selfoss.maintain.svg)
+[![Niveau d’intégration](https://dash.yunohost.org/integration/selfoss.svg)](https://ci-apps.yunohost.org/ci/apps/selfoss/) ![Statut du fonctionnement](https://ci-apps.yunohost.org/ci/badges/selfoss.status.svg) ![Statut de maintenance](https://ci-apps.yunohost.org/ci/badges/selfoss.maintain.svg)
 
 [![Installer Selfoss avec YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=selfoss)
 
@@ -18,7 +18,7 @@ Il NE doit PAS être modifié à la main.
 
 Selfoss est un lecteur RSS polyvalent et une application Web d'agrégation de flux. Il vous permet de suivre facilement les mises à jour de différents sites Web, réseaux sociaux et autres plateformes, le tout en un seul endroit. Il est écrit en PHP, ce qui vous permet de l'exécuter pratiquement n'importe où.
 
-**Version incluse :** 2.19~ynh4
+**Version incluse :** 2.19~ynh5
 
 ## Captures d’écran
 
